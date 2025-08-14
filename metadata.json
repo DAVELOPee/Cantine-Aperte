@@ -1,0 +1,8 @@
+{
+  "name": "Cantine al Giglio",
+  "description": "An application to discover and navigate the food stands (cantine) of the 'CANTINE APERTE' festival on Isola del Giglio, with maps and details for each location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
